@@ -89,7 +89,15 @@ RETURNS table has 2 columns and 801 rows.
    Who are the top customers in terms of total sales and profit?
 
 
-## Preview of Dashboard:
+## Model View:
+
+![Screenshot 2024-05-08 174344](https://github.com/ksashi95/Sample-Superstore-PowerBi-Project/assets/122461940/a5f5bb26-c42b-461f-a723-50605f10eda5)
+
+
+  
+
+
+## Preview of Report:
 
 
 
