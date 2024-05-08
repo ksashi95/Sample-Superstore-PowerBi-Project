@@ -1,7 +1,7 @@
 ## Project Overview:
 The Superstore Analysis project aims to provide comprehensive insights into the performance, trends, and patterns within the sales data of a fictional superstore. Utilizing Power BI, this project delves into various aspects such as overall performance, category/sub-category analysis, sales trends, profitability, return analysis, regional insights, and customer segmentation.
 
-## Background
+## About the Dataset:
 Here's a brief description of each table and its columns:
 
 ORDERS table has 21 columns and 10200 rows. This table contains information about orders placed over a period from 2019 to 2022.
