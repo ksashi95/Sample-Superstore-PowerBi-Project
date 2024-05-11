@@ -113,9 +113,4 @@ RETURNS table has 2 columns and 801 rows.
 
 
 
-## Insights:
-
-
-
-
   
